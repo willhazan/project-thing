@@ -1,0 +1,11 @@
+body {
+    background-color:#8fc9f2;
+}
+h1 { font-family: Roboto Mono;
+}
+h2 {color: white;
+}
+.signature {
+    font-size:15px;
+    font-family:Inconsolata;
+}
